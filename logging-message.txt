@@ -1,0 +1,9 @@
+10/01/2020 20:43:13 INFO     Enter Wahoovian
+10/01/2020 20:43:13 INFO     Leave Wahoovian
+10/01/2020 20:43:13 INFO     Enter Wahoovian
+10/01/2020 20:43:13 WARNING  Matrix is not square
+10/01/2020 20:43:13 INFO     Leave Wahoovian
+10/01/2020 20:43:13 INFO     Enter Wahoovian
+10/01/2020 20:43:13 INFO     Leave Wahoovian
+10/01/2020 20:43:13 INFO     Enter Wahoovian
+10/01/2020 20:43:13 INFO     Leave Wahoovian
